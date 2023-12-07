@@ -36,6 +36,6 @@ public class Dictionary {
 
     public void removeWord(String word)
     {
-        this.words.remove(word);
+        this.words.remove(word.toLowerCase());
     }
 }

@@ -1,7 +1,7 @@
-19:33:45 INFO: Started up the Dictionary app.
-19:33:47 ERROR: The user entered an invalid option.
-19:33:48 ERROR: The user entered an invalid option.
-19:33:50 ERROR: The user entered an invalid option.
-19:34:04 INFO: Added the word "Araaaaaaaaaa" to the dictionary.
-19:34:08 INFO: Looked up the word "Araaaaaaaaa" from the dictionary.
-19:34:14 INFO: Looked up the word "Araaaaaaaaaa" from the dictionary.
+23:06:13 INFO: Started up the Dictionary app.
+23:06:19 INFO: Listed all words from the dictionary.
+23:06:28 INFO: Added the word "Purple" to the dictionary.
+23:06:33 INFO: Looked up the word "Purple" from the dictionary.
+23:06:37 INFO: Looked up the word "Erbium" from the dictionary.
+23:06:42 INFO: Removed the word "Purple" from the dictionary.
+23:06:45 INFO: Looked up the word "Purple" from the dictionary.
